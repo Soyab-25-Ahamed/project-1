@@ -1,0 +1,201 @@
+.wrapper{
+    width: 1170px;
+    margin: 0px auto;
+}
+.icon {
+   float: left;
+   margin-top: 20px;
+   display:block;
+   margin-left:-15px;
+}
+.icon a img{
+    width: 70px;
+    height: 70px;
+    margin-left: 15px !important; 
+}
+.Logo{
+    margin-top: 20px;
+    float: left;
+    margin-left: 245px;
+    display:block;
+}
+.Logo img{
+    width:200px;
+    height: 70px;
+}
+.menu{
+    float: left;
+    width:265px;
+    margin-top: 20px;
+    margin-left: 212px;
+}
+.menu ul{
+    list-style: none;
+    font-size: 18px;
+   
+}
+.menu ul li{
+    float:left;
+}
+.menu ul li a{
+    text-decoration: none;
+    padding:5px 10px;
+    display: block;
+    color:#4C4F50;
+}
+.menu ul li a:hover{
+	color:#0E7A86 ;
+}
+.webb{
+    background-image:url("images/images 3.jpg") ;
+    width:1170px;
+    height:200px;
+    float:left;
+    display: block;
+    margin-top: 50px;
+}
+.webb h1{
+    color:#E8EBEB;
+    margin:0px auto; 
+    text-align: center;
+   margin-top: 25px;
+   display: block;
+   font-size: 49px;
+}
+.lern{
+    float: left;
+    margin-top: 50px;
+}
+.lern a{
+    font-size: 20px;
+    color:#fff;
+    border-radius: 5px;
+    padding: 10px 20px;
+    border: 1px solid #000;
+    margin-left: 500px;
+    text-decoration:none;
+    background-color:#0E7A86  ;
+}
+.service{
+    float: left;
+}
+.service h1{
+    text-align: center;
+    margin-left: 130px;
+    color:#0E7A86 ;
+    font-size: 50px;
+}
+.img img{
+    
+    width: 300px;
+    margin-top: 50px;
+    margin-left: 95px;
+}
+.img img:first-child{
+    margin-left: 30px;
+}
+.img img:last-child{
+    margin-left: 96px;
+    padding-right: 0px;
+}
+.pra p{
+    text-align: justify;
+    float: left;
+    border:1px solid black;
+    width: 300px;
+    height: 330px;
+    padding:20px ;
+    margin-right: 50px;
+    margin-left: 10px;
+	color:#E8EBEB;
+    background-color: #4C4F50;
+    border-radius: 25px;
+    box-shadow: 2px 2px 20px 0px #4C4F50;;
+}
+.pra p:last-child{
+    margin-right: 0px;
+}
+.port{
+    float:left;
+    margin-left:460px;
+    font-size: 30px;
+}
+.port h1{
+    color:#0E7A86;
+}
+.Last-pick{
+    float: left;
+}
+.Last-pick img{
+    float: left;
+    width:360px;
+    margin-left:10px ;
+    padding-right: 20px;
+    margin-top:50px;
+    border-radius:20px;
+    box-shadow:2px 2px 20px 0px #4C4F50;
+    text-align: center;
+}
+.last-pick:last-child{
+    padding-left:0px;
+}
+.about{
+    margin-top: 100px;
+    float:right;
+    
+}
+.about h3{
+    font-size: 25px;
+    font-weight: bold;
+}
+input[type=text]{
+    width:250px;
+    height:40px;
+    margin-top: 5px;
+}
+input[type=email]{
+    width:250px;
+    height:40px;
+    margin-top: 5px;
+}
+.name{
+    float:left;
+}
+.email{
+    float: left;
+    margin-left: 30px;
+}
+.adders{
+    float: left;
+    margin-top: 20px;
+}
+.adders textarea{
+    margin-top: 5px;
+}
+.ask{  
+    margin-top: 315px;
+}
+.ask a{
+    text-decoration: none;
+    color: #000;
+    background-color:#4C4F50;
+    padding: 8px 8px;
+}
+.store{
+    float: left;
+    margin-top: 100px;
+}
+.usa{
+    float: left;
+    margin-top: 10px;
+}
+.mail{
+    
+    margin-top: 110px;
+}
+
+
+
+
+
+
